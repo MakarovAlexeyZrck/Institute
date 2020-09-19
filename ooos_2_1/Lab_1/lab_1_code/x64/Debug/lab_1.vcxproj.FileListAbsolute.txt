@@ -1,0 +1,2 @@
+\\Mac\Home\Desktop\Institute\ooos_2_1\Lab_1\lab_1_code\x64\Debug\lab_1.exe
+\\Mac\Home\Desktop\Institute\ooos_2_1\Lab_1\lab_1_code\x64\Debug\lab_1.pdb
